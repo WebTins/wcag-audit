@@ -11,7 +11,7 @@ Website: https://beauty-bruidsstyliste.nl/
 
 De website die ik heb getest is Beauty-& BRUIDSSTYLISTE en dat is van een familie lid van mij die klanten opmaakt op locatie wanneer ze een afspraak maken. Het is belangrijk dat klanten gemakkelijk online een afspraak kunnen maken en meer te weten te kunnen komen over mijn familie lid en daarom ben ik erg benieuwd hoe toegankelijk de website is.
 
-Op de homepagina krijg je gelijk de content blokken te zien waar je dus ook de nav bovenaan kan zien. De website heeft 2 hoofdkleuren en dat zijn wit, licht roze en goud waarbij goud alleen wordt gebruikt voor de knoppen zodat de website er strak uit ziet en niet overbodig aan goude kleuren heeft. Het licht roze kleur worden alleen gebruikt bij andere pagina's die te navigeren zijn via de nav in de header.
+Op de homepagina krijg je gelijk de content blokken te zien waar je dus ook de nav bovenaan kan zien. De website heeft 3 hoofdkleuren en dat zijn wit, licht roze en goud waarbij goud alleen wordt gebruikt voor de knoppen zodat de website er strak uit ziet en niet overbodig aan goude kleuren heeft. Het licht roze kleur worden alleen gebruikt bij andere pagina's die te navigeren zijn via de nav in de header.
 
 <img width="1899" height="881" alt="image" src="https://github.com/user-attachments/assets/f81351af-8a65-4246-99f1-db31695e89e7" />
 
